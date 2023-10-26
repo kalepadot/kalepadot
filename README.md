@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1173" alt="Screenshot 2023-10-25 at 9 41 06 PM" src="https://github.com/kalepadot/kalepadot/assets/29220408/946d3157-31f9-496c-bbc5-77d45a584cc0">
+<img width="922" alt="Screenshot 2023-10-25 at 9 42 40 PM" src="https://github.com/kalepadot/kalepadot/assets/29220408/7fd4df71-2129-4db2-9bca-78c21ba91a1d">
