@@ -1,4 +1,4 @@
-### 👽
+👽
 
 <!--
 **kalepadot/kalepadot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="1450" alt="Screenshot 2023-10-25 at 9 39 56 PM" src="https://github.com/kalepadot/kalepadot/assets/29220408/1bb3192d-95c5-4f41-9e50-1cc01ad5519e">
+<img width="1173" alt="Screenshot 2023-10-25 at 9 41 06 PM" src="https://github.com/kalepadot/kalepadot/assets/29220408/946d3157-31f9-496c-bbc5-77d45a584cc0">
